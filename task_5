@@ -1,0 +1,7 @@
+a = float(input())
+b = float(input())
+sum = abs(a) + abs(b)
+raznost = abs(a) - abs(b)
+deleniye = abs(a) / abs(b)
+proizved = abs(a) * abs(b)
+print("sum = "+str(sum)+" raznost = "+str(raznost)+" deleniye = "+str(deleniye)+" proizved = "+str(proizved))
