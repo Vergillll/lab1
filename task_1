@@ -5,7 +5,7 @@ b = float(input())
 s = 0
 p = 0
 if a>0 and b>0:
-  s = a*b
-  p = (a+b)*2
+    s = a*b
+    p = (a+b)*2
 print("S = "+str(s))
 print("P = "+str(p))
