@@ -1,0 +1,7 @@
+print("input d")
+d = float(input())
+pi = 3.14
+L = 0
+if d>0:
+    L = pi*d
+print("L = "+str(L))
