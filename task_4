@@ -3,5 +3,5 @@ b = float(input())
 sum = a**2 + b**2
 raznost = a**2 - b**2
 deleniye = a**2 / b**2
-proizved = a**2 + b**2
+proizved = a**2 * b**2
 print("sum = "+str(sum)+" raznost = "+str(raznost)+" deleniye = "+str(deleniye)+" proizved = "+str(proizved))
